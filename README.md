@@ -50,7 +50,9 @@ Sol Badguy sprite from Guilty Gear XX series reacting to the player's health.
 ## Stuff that needs to be fixed.
 
 -confirm sound effect needs to be a .wav
+
 -Team Fortress 2 is still being shown on the main menu when the player is in a server.
+
 
 ## Setup
 
