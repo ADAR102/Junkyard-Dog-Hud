@@ -6,6 +6,8 @@ This is an edited old version of Flaw Hud dated in 2020.
 
 **I did not create this Hud! [Russ](https://steamcommunity.com/id/RussTF2) created it for me and I thought it would be okay to upload this for anyone is interested.**
 
+**12/31/2024 - HUD IS BEING WORKED ON RIGHT NOW!**
+
   
 
 ## WHAT THE HUD CONTAINS
