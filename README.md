@@ -41,7 +41,7 @@ Sol Badguy sprite from Guilty Gear XX series reacting to the player's health.
 ## Versions
 
 
->Version 1 = White numbers with black outline for ammo and health. 
+>Version 1 = White numbers with black outline for ammo and health. Fits close to Strive's font.
 <img src= "https://raw.githubusercontent.com/ADAR102/Junkyard-Dog-Hud/refs/heads/main/20241231034721_1.jpg"/>
 
 >Version 2 = Ripped font from Guilty Gear Xrd for ammo and health.
