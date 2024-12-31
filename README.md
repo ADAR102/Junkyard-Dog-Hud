@@ -49,10 +49,11 @@ Sol Badguy sprite from Guilty Gear XX series reacting to the player's health.
 >Version 1.1 = Same thing but no Sol sprite on the side.
 ## Stuff that needs to be fixed.
 
--confirm sound effect needs to be a .wav
+-Confirm sound effect needs to be a .wav! When loading into a Highlander match, it plays a loud scratching sound.
 
--Team Fortress 2 is still being shown on the main menu when the player is in a server.
+-The title "TEAM FORTRESS 2" is still being shown on the main menu when the player is in a server.
 
+**All these errors are in v1 and v1.1! It is going to be fixed in v2.**
 
 ## Setup
 
