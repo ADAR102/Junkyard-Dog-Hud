@@ -19,6 +19,8 @@ Your default meter for weapons is using the Xrd tension meter.
 
 Your secondary meter is ripped from Guilty Gear 2 Overture Sol Badguy's health bar. 
 
+<img src= "https://raw.githubusercontent.com/ADAR102/Junkyard-Dog-Hud/refs/heads/main/PrimaryMeterUsageEX.gif"/>
+
 Sadly, third meter is not custom because it would cover too much space on the screen. 
 
 Clicking around the TF2 menu will play Guilty Gear XX confirm sound effect. 
