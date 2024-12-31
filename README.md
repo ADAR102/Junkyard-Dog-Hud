@@ -45,6 +45,7 @@ Sol Badguy sprite from Guilty Gear XX series reacting to the player's health.
 <img src= "https://raw.githubusercontent.com/ADAR102/Junkyard-Dog-Hud/refs/heads/main/20241231034721_1.jpg"/>
 
 >Version 2 = Ripped font from Guilty Gear Xrd for ammo and health.
+<img src= "https://raw.githubusercontent.com/ADAR102/Junkyard-Dog-Hud/refs/heads/main/20241231041103_1.jpg"/>
 
 IF YOU DON'T LIKE THE SOL BADGUY SPRITE THEN YOU CAN CHOOSE TO HAVE THE "NO SOL SPRITE"! It does not come with the ripped Guilty Gear XRD font.
 
