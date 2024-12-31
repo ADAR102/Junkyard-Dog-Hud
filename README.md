@@ -33,8 +33,6 @@ Custom Font on the menu and meters are from Guilty Gear Strive.
 
 Custom image replacing Team Fortress 2 above the menu. It shows Order-Sol face smirking at Sol Bad guy's sword from Xrd (Junkyard Dog). 
 
-Darker background for some sections in the TF2 menu.
-
 ## Versions
 
   
