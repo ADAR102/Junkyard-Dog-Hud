@@ -33,7 +33,7 @@ Custom background is Paris from Guilty Gear XX Accent Core Plus R.
 
 Custom Font on the menu and meters are from Guilty Gear Strive. 
 
-Custom image replacing Team Fortress 2 above the menu. It shows Order-Sol face smirking at Sol Bad guy's sword from Xrd (Junkyard Dog). 
+Custom image replacing Team Fortress 2 above the menu. It shows Order-Sol face smirking at Sol Badguy's sword from Xrd (Junkyard Dog). 
 
 Sol Badguy sprite from Guilty Gear XX series reacting to the player's health.
 <details><summary> Sol Badguy Sprite </summary>
