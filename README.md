@@ -37,11 +37,6 @@ Version 1 = The hud with the old numbers for ammo and health. It also comes with
 When the player overheals, Sol Bad guy sprite does a Dragon Install. 
 When the player is low health, Sol Bad guy Sprite is on his knees with a headache. 
 
-IF YOU DON'T LIKE THE SOL BADGUY SPRITE THEN YOU CAN CHOOSE TO HAVE THE "NO SOL SPRITE" 
+Version 2 = Replaces the numbers for ammo and health. The font is ripped from Guilty Gear Xrd series
 
-
-Version 2 = Replaces the numbers for ammo and health. The font is ripped from Guilty Gear Xrd series. 
-
-IF YOU DON'T LIKE THE SOL BADGUY SPRITE THEN YOU CAN CHOOSE TO HAVE THE "NO SOL SPRITE"
-
-Version 2 = Replaces the numbers for ammo and health. The font is ripped from Guilty Gear Xrd series.
+>IF YOU DON'T LIKE THE SOL BADGUY SPRITE THEN YOU CAN CHOOSE TO HAVE THE "NO SOL SPRITE"<
