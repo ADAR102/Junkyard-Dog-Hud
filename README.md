@@ -44,3 +44,11 @@ When the player is low health, Sol Bad guy Sprite is on his knees with a headach
 >Version 2 = Replaces the numbers for ammo and health. The font is ripped from Guilty Gear Xrd series<
 
 IF YOU DON'T LIKE THE SOL BADGUY SPRITE THEN YOU CAN CHOOSE TO HAVE THE "NO SOL SPRITE"! It does not come with the ripped Guilty Gear XRD font.
+
+## Setup
+
+1: Download the version you want
+
+2: Upen up File Explorer and go to Steam\steamapps\common\Team Fortress 2\tf\custom
+
+3: Throw the folder in the custom folder.
