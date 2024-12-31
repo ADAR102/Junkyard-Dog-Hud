@@ -2,7 +2,9 @@
 
 This is my main TF2 hud!
 
-Russ created this Hud as a Christmas present! It is an old version of Flaw Hud dated 2020. I really like the old version of Flaw Hud, but I never had my own Hud until now (12/18/2024) 
+This is an edited old version of Flaw Hud dated in 2020.
+
+**I did not create this Hud! Russ created it for me and I thought it would be okay to upload this for anyone is interested.**
 
   
 
