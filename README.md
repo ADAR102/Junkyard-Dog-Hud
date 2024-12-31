@@ -40,6 +40,14 @@ Sol Badguy sprite from Guilty Gear XX series reacting to the player's health.
 
 </details>
 
+## Setup
+
+1: Download the version you want
+
+2: Upen up File Explorer and go to Steam\steamapps\common\Team Fortress 2\tf\custom
+
+3: Throw the folder in the custom folder.
+
 ## Versions
 
 
@@ -54,11 +62,3 @@ Sol Badguy sprite from Guilty Gear XX series reacting to the player's health.
 -The title "TEAM FORTRESS 2" is still being shown on the main menu when the player is in a server.
 
 **All these errors are in v1 and v1.1! It is going to be fixed in v2.**
-
-## Setup
-
-1: Download the version you want
-
-2: Upen up File Explorer and go to Steam\steamapps\common\Team Fortress 2\tf\custom
-
-3: Throw the folder in the custom folder.
