@@ -1,5 +1,5 @@
 ## Junkyard-Dog Hud: A Guilty Gear themed Hud for Team Fortress 2!
-<img src= "20241231031920_1.png"/>
+<img src= "https://raw.githubusercontent.com/ADAR102/Junkyard-Dog-Hud/refs/heads/main/20241231031920_1.jpg"/>
 This is my main TF2 hud!
 
 This is an edited old version of Flaw Hud dated in 2020.
@@ -45,4 +45,4 @@ When the player is low health, Sol Bad guy Sprite is on his knees with a headach
 
 >Version 2 = Replaces the numbers for ammo and health. The font is ripped from Guilty Gear Xrd series<
 
-IF YOU DON'T LIKE THE SOL BADGUY SPRITE THEN YOU CAN CHOOSE TO HAVE THE "NO SOL SPRITE"
+IF YOU DON'T LIKE THE SOL BADGUY SPRITE THEN YOU CAN CHOOSE TO HAVE THE "NO SOL SPRITE"! It does not come with the ripped Guilty Gear XRD font.
