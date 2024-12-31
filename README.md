@@ -15,13 +15,13 @@ This is an edited old version of Flaw Hud dated in 2020.
 
   
 
-Your default meter for weapons is using the Xrd tension meter. 
+Your default meter for weapons is using the Xrd "Tension" meter. 
 
 Your secondary meter is ripped from Guilty Gear 2 Overture Sol Badguy's health bar. 
 
 <img src= "https://raw.githubusercontent.com/ADAR102/Junkyard-Dog-Hud/refs/heads/main/PrimaryMeterUsageEX.gif"/>
 
-Sadly, third meter is not custom because it would cover too much space on the screen. 
+Sadly, third meter is not custom because it would cover too much space on the screen. The meter is just a small white bar. 
 
 Clicking around the TF2 menu will play Guilty Gear XX confirm sound effect. 
 
@@ -37,7 +37,10 @@ Custom image replacing Team Fortress 2 above the menu. It shows Order-Sol face s
 
   
 
->Version 1 = The hud with the old numbers for ammo and health. It also comes with Sol Badguy sprite from Guilty Gear XX series reacting to the player's health. 
+>Version 1 = The hud with the old numbers for ammo and health. 
+<img src= "https://raw.githubusercontent.com/ADAR102/Junkyard-Dog-Hud/refs/heads/main/20241231034721_1.jpg"/>
+
+It also comes with Sol Badguy sprite from Guilty Gear XX series reacting to the player's health. 
 When the player overheals, Sol Bad guy sprite does a Dragon Install. 
 When the player is low health, Sol Bad guy Sprite is on his knees with a headache.< 
 
