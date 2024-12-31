@@ -19,7 +19,7 @@ Your default meter for weapons is using the Xrd "Tension" meter.
 
 Your secondary meter is ripped from Guilty Gear 2 Overture Sol Badguy's health bar. 
 
-<img src= "PUT IT HERE"/>
+<img src= "https://raw.githubusercontent.com/ADAR102/Junkyard-Dog-Hud/refs/heads/main/GGXRD%20Tension%20Meter%20EX.gif"/>
 
 Sadly, third meter is not custom because it would cover too much space on the screen. The meter is just a small white bar. 
 
