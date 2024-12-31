@@ -9,9 +9,9 @@ This is an edited old version of Flaw Hud dated in 2020.
   
 
 ## WHAT THE HUD CONTAINS
->-Ripped sounds and files from previous Guilty Gear Games (Xrd, XX, Overture, Strive)<
+>-Ripped sounds and files from previous Guilty Gear Games (Xrd, XX, Overture, Strive)
 
->-Static Ambassador crosshair that can be edited in the Hud files. Search for "crosshair.cfg." To learn more on the static Ambassador crosshair mod, [click here!](https://github.com/jooonior/tf2-static-ambassador-crosshair) IF THE MOD IS BOTHERING YOU, JUST SIMPLY DELETE THE "crosshair.cfg" FILE!<
+>-Static Ambassador crosshair that can be edited in the Hud files. Search for "crosshair.cfg." To learn more on the static Ambassador crosshair mod, [click here!](https://github.com/jooonior/tf2-static-ambassador-crosshair) IF THE MOD IS BOTHERING YOU, JUST SIMPLY DELETE THE "crosshair.cfg" FILE!
 
   
 
@@ -33,18 +33,18 @@ Custom Font on the menu and meters are from Guilty Gear Strive.
 
 Custom image replacing Team Fortress 2 above the menu. It shows Order-Sol face smirking at Sol Bad guy's sword from Xrd (Junkyard Dog). 
 
+Sol Badguy sprite from Guilty Gear XX series reacting to the player's health.
+<details><summary> Sol Badguy Sprite </summary>
+
+</details>
+
 ## Versions
 
-  
 
->Version 1 = The hud with the old numbers for ammo and health. 
+>Version 1 = White numbers with black outline for ammo and health. 
 <img src= "https://raw.githubusercontent.com/ADAR102/Junkyard-Dog-Hud/refs/heads/main/20241231034721_1.jpg"/>
 
-It also comes with Sol Badguy sprite from Guilty Gear XX series reacting to the player's health.
-<details><summary> Sol Bad Guy Sprite </summary>
-
-</details> 
->Version 2 = Replaces the numbers for ammo and health. The font is ripped from Guilty Gear Xrd series<
+>Version 2 = Ripped font from Guilty Gear Xrd for ammo and health.
 
 IF YOU DON'T LIKE THE SOL BADGUY SPRITE THEN YOU CAN CHOOSE TO HAVE THE "NO SOL SPRITE"! It does not come with the ripped Guilty Gear XRD font.
 
