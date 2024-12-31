@@ -47,6 +47,10 @@ Sol Badguy sprite from Guilty Gear XX series reacting to the player's health.
 <img src= "https://raw.githubusercontent.com/ADAR102/Junkyard-Dog-Hud/refs/heads/main/20241231034721_1.jpg"/>
 
 >Version 1.1 = Same thing but no Sol sprite on the side.
+## Stuff that needs to be fixed.
+
+-confirm sound effect needs to be a .wav
+-Team Fortress 2 is still being shown on the main menu when the player is in a server.
 
 ## Setup
 
