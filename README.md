@@ -40,10 +40,10 @@ Custom image replacing Team Fortress 2 above the menu. It shows Order-Sol face s
 >Version 1 = The hud with the old numbers for ammo and health. 
 <img src= "https://raw.githubusercontent.com/ADAR102/Junkyard-Dog-Hud/refs/heads/main/20241231034721_1.jpg"/>
 
-It also comes with Sol Badguy sprite from Guilty Gear XX series reacting to the player's health. 
-When the player overheals, Sol Bad guy sprite does a Dragon Install. 
-When the player is low health, Sol Bad guy Sprite is on his knees with a headache.< 
+It also comes with Sol Badguy sprite from Guilty Gear XX series reacting to the player's health.
+<details><summary> Sol Bad Guy Sprite </summary>
 
+</details> 
 >Version 2 = Replaces the numbers for ammo and health. The font is ripped from Guilty Gear Xrd series<
 
 IF YOU DON'T LIKE THE SOL BADGUY SPRITE THEN YOU CAN CHOOSE TO HAVE THE "NO SOL SPRITE"! It does not come with the ripped Guilty Gear XRD font.
