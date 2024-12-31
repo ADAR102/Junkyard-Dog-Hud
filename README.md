@@ -15,7 +15,7 @@ Russ created this Hud as a Christmas present! It is an old version of Flaw Hud d
 
 Your default meter for weapons is using the Xrd tension meter. 
 
-Your secondary meter is ripped from Guilty Gear 2 Overture Sol Badguy's meter. 
+Your secondary meter is ripped from Guilty Gear 2 Overture Sol Badguy's health bar. 
 
 Sadly, third meter is not custom because it would cover too much space on the screen. 
 
