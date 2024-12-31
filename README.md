@@ -1,18 +1,12 @@
-# Junkyard-Dog-Hud
-/// Thank you for downloading Junkyard-Dog Hud!\\\ 
+## Junkyard-Dog Hud: A Guilty Gear themed Hud for Team Fortress 2!
 
-
-This is a Guilty Gear themed mod. I play TF2 spy, and I made sure this fits nicely for me while I play. 
+This is my main TF2 hud!
 
 Russ created this Hud as a Christmas present! It is an old version of Flaw Hud dated 2020. I really like the old version of Flaw Hud, but I never had my own Hud until now (12/18/2024) 
 
   
 
-I DON'T KNOW HOW TO EDIT THE HUD!!! I AM JUST SHARING THIS INCASE IF ANYONE IS INTERESTED TO HAVING MY VERY OWN HUD!!! 
-
-  
-
-/// WHAT THE HUD CONTAINS \\\ 
+## WHAT THE HUD CONTAINS
 >-Ripped sounds and files from previous Guilty Gear Games (Xrd, XX, Overture, Strive)<
 
 >-Static Ambassador crosshair that can be edited in the Hud files. Search for "crosshair.cfg." To learn more on the static Ambassador crosshair mod, checkout https://github.com/jooonior/tf2-static-ambassador-crosshair IF THE MOD IS BOTHERING YOU, JUST SIMPLY DELETE THE "crosshair.cfg" FILE!<
@@ -37,7 +31,7 @@ Custom image replacing Team Fortress 2 above the menu. It shows Order-Sol face s
 
 Darker background for some sections in the TF2 menu.
 
-/// Versions \\\ 
+## Versions
 
   
 
