@@ -42,9 +42,9 @@ Sol Badguy sprite from Guilty Gear XX series reacting to the player's health.
 
 ## Setup
 
-1: Download the version you want
+1: Download and decide which version you want from the 7z
 
-2: Upen up File Explorer and go to Steam\steamapps\common\Team Fortress 2\tf\custom
+2: Open up File Explorer and go to Steam\steamapps\common\Team Fortress 2\tf\custom
 
 3: Throw the folder in the custom folder.
 
