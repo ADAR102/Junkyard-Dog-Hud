@@ -13,7 +13,7 @@ This is an edited old version of Flaw Hud dated in 2020.
 ## WHAT THE HUD CONTAINS
 >-Ripped sounds and files from previous Guilty Gear Games (Xrd, XX, Overture, Strive)
 
->-Static crosshair that can be edited in the Hud files. Search for "crosshair.cfg or edit "hudlayout.res"! hud IF THE MOD IS BOTHERING YOU, JUST SIMPLY DELETE THE "crosshair.cfg" FILE!
+>-Static crosshair that can be edited in the Hud files. Search for "crosshair.cfg or edit "hudlayout.res"! Delete THE "crosshair.cfg" if thats bothering you.
 
 
 
@@ -49,7 +49,8 @@ Sol Badguy sprite from Guilty Gear XX series reacting to the player's health.
 
 3: Throw the folder in the custom folder.
 
-## Static crosshair files
+
+## Static crosshair files that are installed in this Hud
 
 Static crosshair that uses crosshair.cfg [click here!](https://github.com/jooonior/tf2-static-ambassador-crosshair) 
 
