@@ -13,9 +13,9 @@ This is an edited old version of Flaw Hud dated in 2020.
 ## WHAT THE HUD CONTAINS
 >-Ripped sounds and files from previous Guilty Gear Games (Xrd, XX, Overture, Strive)
 
->-Static Ambassador crosshair that can be edited in the Hud files. Search for "crosshair.cfg." To learn more on the static Ambassador crosshair mod, [click here!](https://github.com/jooonior/tf2-static-ambassador-crosshair) [click here!](https://github.com/Hypnootize/TF2-HUD-Crosshairs)IF THE MOD IS BOTHERING YOU, JUST SIMPLY DELETE THE "crosshair.cfg" FILE!
+>-Static Ambassador crosshair that can be edited in the Hud files. Search for "crosshair.cfg." To learn more on the static Ambassador crosshair mod, IF THE MOD IS BOTHERING YOU, JUST SIMPLY DELETE THE "crosshair.cfg" FILE!
 
-  
+[click here!](https://github.com/jooonior/tf2-static-ambassador-crosshair) [click here!](https://github.com/Hypnootize/TF2-HUD-Crosshairs)  
 
 Your default meter for weapons is ripped from Guilty Gear Xrd's "Tension" meter. 
 
