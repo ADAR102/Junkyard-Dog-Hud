@@ -50,7 +50,7 @@ Sol Badguy sprite from Guilty Gear XX series reacting to the player's health.
 3: Throw the folder in the custom folder.
 
 
-## Static crosshair files that are installed in this Hud
+## Static crosshair files that are installed
 
 Static crosshair that uses crosshair.cfg [click here!](https://github.com/jooonior/tf2-static-ambassador-crosshair) 
 
