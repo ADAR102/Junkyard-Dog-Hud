@@ -13,9 +13,10 @@ This is an edited old version of Flaw Hud dated in 2020.
 ## WHAT THE HUD CONTAINS
 >-Ripped sounds and files from previous Guilty Gear Games (Xrd, XX, Overture, Strive)
 
->-Static Ambassador crosshair that can be edited in the Hud files. Search for "crosshair.cfg." To learn more on the static Ambassador crosshair mod, IF THE MOD IS BOTHERING YOU, JUST SIMPLY DELETE THE "crosshair.cfg" FILE!
+>-Static Ambassador crosshair that can be edited in the Hud files. Search for "crosshair.cfg." IF THE MOD IS BOTHERING YOU, JUST SIMPLY DELETE THE "crosshair.cfg" FILE!
 
-[click here!](https://github.com/jooonior/tf2-static-ambassador-crosshair) [click here!](https://github.com/Hypnootize/TF2-HUD-Crosshairs)  
+
+
 
 Your default meter for weapons is ripped from Guilty Gear Xrd's "Tension" meter. 
 
@@ -47,6 +48,13 @@ Sol Badguy sprite from Guilty Gear XX series reacting to the player's health.
 2: Open up File Explorer and go to Steam\steamapps\common\Team Fortress 2\tf\custom
 
 3: Throw the folder in the custom folder.
+
+## Static crosshair files
+
+Static crosshair that uses crosshair.cfg [click here!](https://github.com/jooonior/tf2-static-ambassador-crosshair) 
+
+Static crosshair that uses hudlayout.res. This can also be used as a knuckles as well. [click here!](https://github.com/Hypnootize/TF2-HUD-Crosshairs)
+
 
 ## Versions
 
