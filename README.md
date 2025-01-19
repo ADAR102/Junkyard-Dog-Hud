@@ -13,7 +13,7 @@ This is an edited old version of Flaw Hud dated in 2020.
 ## WHAT THE HUD CONTAINS
 >-Ripped sounds and files from previous Guilty Gear Games (Xrd, XX, Overture, Strive)
 
->-Static Ambassador crosshair that can be edited in the Hud files. Search for "crosshair.cfg." IF THE MOD IS BOTHERING YOU, JUST SIMPLY DELETE THE "crosshair.cfg" FILE!
+>-Static crosshair that can be edited in the Hud files. Search for "crosshair.cfg or edit "hudlayout.res"! hud IF THE MOD IS BOTHERING YOU, JUST SIMPLY DELETE THE "crosshair.cfg" FILE!
 
 
 
