@@ -60,14 +60,11 @@ Static crosshair that uses hudlayout.res. This can also be used as a knuckles as
 ## Versions
 
 
->Version 1 = White numbers with black outline for ammo and health. Fits close to Strive's combo font.
+>Version 2.0 = White numbers with black outline for ammo and health. Fits close to Strive's combo font.
 <img src= "https://raw.githubusercontent.com/ADAR102/Junkyard-Dog-Hud/refs/heads/main/20241231034721_1.jpg"/>
 
->Version 1.1 = Same thing but no Sol sprite on the side.
+>Version 2.0 = Same thing but no Sol sprite on the side.
 ## Stuff that needs to be fixed.
 
--Confirm sound effect needs to be a .wav! When loading into a Highlander match, it plays a loud scratching sound.
 
 -The title "TEAM FORTRESS 2" is still being shown on the main menu when the player is in a server.
-
-**All these errors are in v1 and v1.1! It is going to be fixed in v2.**
