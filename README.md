@@ -56,6 +56,7 @@ Static crosshair that uses crosshair.cfg [click here!](https://github.com/joooni
 
 Static crosshair that uses hudlayout.res. This can also be used as a knuckles as well. [click here!](https://github.com/Hypnootize/TF2-HUD-Crosshairs)
 
+More static crosshair hud stuff [here...](https://github.com/rbjaxter/budhud/wiki/Crosshairs)
 
 ## Versions
 
