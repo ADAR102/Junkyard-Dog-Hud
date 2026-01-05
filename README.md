@@ -59,6 +59,8 @@ Static crosshair that uses hudlayout.res. This can also be used as a knuckles as
 More static crosshair hud stuff [here...](https://github.com/rbjaxter/budhud/wiki/Crosshairs) or
 [Static Crosshair from Config Docs](https://docs.comfig.app/latest/tf2/)
 
+Or be a simple man and use Venom crosshairs program... >_>
+
 ## Versions
 
 
